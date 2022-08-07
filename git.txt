@@ -5,6 +5,9 @@ hello,git
 hello,git
 hello,git
 hello,git
+hello,java
+hello,python
+hello,hadoop
 hello,git
 hello,git
 hello,git
