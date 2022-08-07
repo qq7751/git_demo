@@ -8,4 +8,4 @@ hello,git
 hello,java
 hello,python
 hello,hadoop
-hello,git   master
+hello,git   hot-fix
