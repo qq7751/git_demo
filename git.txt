@@ -9,3 +9,4 @@ hello,git
 hello,java
 hello,python
 hello,hadoop
+hello,git   hot-fix
