@@ -2,11 +2,9 @@ hello,git
 hello,git
 hello,git
 hello,git
-hello,git  master
 hello,git
 hello,git
 hello,git
 hello,java
 hello,python
 hello,hadoop
-hello,git   master
