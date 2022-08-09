@@ -1,7 +1,6 @@
 hello,git
 hello,git
 hello,git
-hello,git
 hello,java  master
 hello,git
 hello,git
